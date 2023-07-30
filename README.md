@@ -27,3 +27,6 @@ This section contains the contact details of the organisation
 
 # Footer Section
 This section contains the social media handles of the startup
+
+# Demo Link
+https://64c5e5cbad7dc44c4ffde4c7--dapper-brigadeiros-4e6264.netlify.app/
